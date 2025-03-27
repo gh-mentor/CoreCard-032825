@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <None Include=".github\copilot-instructions.md" />
-    <None Include=".github\workflows\build_and_test.yml" />
     <None Include=".github\workflows\ci.md" />
   </ItemGroup>
 
