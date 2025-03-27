@@ -6,10 +6,14 @@
 - Use double quotes for strings.
 - Ensure all public methods have XML documentation comments.
 - Ensure consistent indentation using 4 spaces.
+- Implement the IDisposable interface for classes that use unmanaged resources.
+- Implement code suggestions for all TODO comments.
 
 ## Specific Instructions
 - Use `readonly` for fields that do not change after construction.
 - Use `var` for local variable declarations when the type is obvious.
+- Use `string.Empty` instead of `""`.
+- Declare fields as nullable.
 - Prefer expression-bodied members for simple methods and properties.
 - Use string interpolation instead of string concatenation.
 - Ensure all async methods handle exceptions using try-catch.
