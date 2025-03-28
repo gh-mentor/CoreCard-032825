@@ -38,4 +38,6 @@ GH handle:  andrew-scoppa
 
 [Using GitHub Copilot Chat in your IDE](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide)
 
+[Copilot Chat Cookbook](https://docs.github.com/en/copilot/copilot-chat-cookbook)
+
 
