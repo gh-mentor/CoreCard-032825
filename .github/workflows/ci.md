@@ -18,5 +18,5 @@ Recommended Actions for the Workflow:
 - actions/setup-dotnet@v3: To set up the .NET environment.
 - actions/setup-node@v4: To set up Node.js (if needed for any additional tasks).
 - actions/cache@v3: To cache dependencies for faster builds.
-- actions/upload-artifact@v3: To upload test results or build artifacts (optional).
+- actions/upload-artifact@v3: To upload test results or build artifacts.
 
