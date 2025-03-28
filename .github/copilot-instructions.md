@@ -5,7 +5,6 @@
 - Use PascalCase for class names, method names, and properties.
 - Use double quotes for strings.
 - Ensure all public methods have XML documentation comments.
-- Ensure consistent indentation using 4 spaces.
 - Implement the IDisposable interface for classes that use unmanaged resources.
 - Implement code suggestions for all TODO comments.
 
